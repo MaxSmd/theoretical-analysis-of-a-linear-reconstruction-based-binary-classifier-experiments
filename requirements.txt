@@ -1,4 +1,10 @@
 Levenshtein==0.21.1
-numpy==1.22.4
-scipy==1.8.1
+numpy==1.24.4
+scipy==1.10.1
 pylcs==0.0.8
+pandas==2.3.3
+scikit-learn==1.7.2
+matplotlib==3.10.7
+seaborn==0.13.2
+
+

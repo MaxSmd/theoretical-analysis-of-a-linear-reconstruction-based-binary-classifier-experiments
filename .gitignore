@@ -1,0 +1,14 @@
+# Ignore data folders
+real-world-data/bgl_loghub/
+real-world-data/hdfs_loghub/
+real-world-data/openstack_parisakalaki/
+real-world-data/img/
+
+real-world-data/reconstruction_error_analysis.pdf
+
+# Ignore Python virtual environment
+.venv/
+
+# (Optional) Ignore typical Python cache files
+__pycache__/
+*.pyc
