@@ -1,8 +1,8 @@
 This is the original README.md from the AECID GitHub repository.
 To ensure everything works correctly, make sure to add the following folders:
-real-world-data/bgl_loghub
-real-world-data/hdfs_loghub
-real-world-data/openstack_parisakalaki
+- real-world-data/bgl_loghub
+- real-world-data/hdfs_loghub
+- real-world-data/openstack_parisakalaki
 
 
 # anomaly-detection-log-datasets
